@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "span.css-1p2wkou"
+}

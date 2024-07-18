@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"span.css-ave74c\"}\n  (Session info: chrome=126.0.6478.127)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF6FBDCEEC2+31554]\n\t(No symbol) [0x00007FF6FBD47EF9]\n\t(No symbol) [0x00007FF6FBC0872A]\n\t(No symbol) [0x00007FF6FBC58434]\n\t(No symbol) [0x00007FF6FBC5853C]\n\t(No symbol) [0x00007FF6FBC9F6A7]\n\t(No symbol) [0x00007FF6FBC7D06F]\n\t(No symbol) [0x00007FF6FBC9C977]\n\t(No symbol) [0x00007FF6FBC7CDD3]\n\t(No symbol) [0x00007FF6FBC4A33B]\n\t(No symbol) [0x00007FF6FBC4AED1]\n\tGetHandleVerifier [0x00007FF6FC0D8B5D+3217373]\n\tGetHandleVerifier [0x00007FF6FC125B23+3532707]\n\tGetHandleVerifier [0x00007FF6FC11B120+3489184]\n\tGetHandleVerifier [0x00007FF6FBE7E796+750614]\n\t(No symbol) [0x00007FF6FBD5377F]\n\t(No symbol) [0x00007FF6FBD4EB34]\n\t(No symbol) [0x00007FF6FBD4ECC2]\n\t(No symbol) [0x00007FF6FBD3E18F]\n\tBaseThreadInitThunk [0x00007FF947727344+20]\n\tRtlUserThreadStart [0x00007FF948C7CC91+33]\n"
+}
